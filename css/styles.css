@@ -1,0 +1,29 @@
+body {
+  background-image: url('../img/mahira-background.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: aliceblue;
+}
+
+h1 {
+  text-align: center;
+  font-size: 72px;
+  border: 0;
+  text-shadow: 20px 20px rgb(216, 192, 216, 0.3);
+}
+
+h4{
+  text-align: center;
+}
+
+h4 a{
+  text-align: center;
+  color: pink;
+  text-shadow: 2px 2px slategrey;
+}
+
+h4 a:hover {
+  color: yellow;
+  text-shadow: 2px 2px slategrey;
+}

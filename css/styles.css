@@ -20,6 +20,7 @@ h4{
 h4 a{
   text-align: center;
   color: pink;
+  text-decoration: none;
   text-shadow: 2px 2px slategrey;
 }
 

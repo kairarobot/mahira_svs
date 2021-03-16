@@ -8,23 +8,40 @@ body {
 
 h1 {
   text-align: center;
+  color: aliceblue;
   font-size: 72px;
   border: 0;
   text-shadow: 20px 20px rgb(216, 192, 216, 0.3);
 }
 
+h1 a{
+  text-align: center;
+  font-size: 72px;
+  color: aliceblue;
+  border: 0;
+  text-decoration: none;
+  text-shadow: 20px 20px rgb(216, 192, 216, 0.3);
+}
+
 h4{
   text-align: center;
+  color: pink;
+  text-decoration: none;
+  text-shadow: 2px 2px rgb(112, 128, 144, 0.3);
 }
 
 h4 a{
   text-align: center;
   color: pink;
   text-decoration: none;
-  text-shadow: 2px 2px slategrey;
+  text-shadow: 2px 2px rgb(112, 128, 144, 0.3);
 }
 
 h4 a:hover {
   color: yellow;
-  text-shadow: 2px 2px slategrey;
+  text-shadow: 2px 2px rgb(112, 128, 144, 0.3);
+}
+
+.yt {
+  text-align: center;
 }
